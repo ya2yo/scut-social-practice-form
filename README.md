@@ -28,16 +28,6 @@ Once this package has been accepted into Typst Universe, import it with:
 All content parameters are optional. Pass content in square brackets, which
 also supports multiple paragraphs for long-form fields.
 
-## Publishing
-
-Before submitting a release, set the `repository` field in `typst.toml` to the
-public source repository URL. Submit the complete package directory to
-[`typst/packages`](https://github.com/typst/packages) under
-`packages/preview/scut-social-practice-form/0.1.0`.
-
-Confirm that you are authorized to publish the form design and any associated
-institutional names or marks before distribution.
-
 ## License
 
 MIT.
